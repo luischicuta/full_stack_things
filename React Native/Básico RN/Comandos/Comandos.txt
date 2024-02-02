@@ -1,0 +1,14 @@
+no cmd (como admin):
+
+react-native init "nome do projeto" //criar um novo projeto.
+
+react-native start   //inicia o servidor.
+
+react-native run-android //iniciar o app no celular ou emulador.
+
+adb devices //ver dispositivos disponiveis.
+
+
+conecte o celular no PC com um cabo USB, ative a depuração USB para ver o app no celular.
+
+para ir pelo emulador, é só estar com ele aberto.

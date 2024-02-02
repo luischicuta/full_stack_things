@@ -1,0 +1,10 @@
+Substitua o código por este. O caminho do arquivo é -
+
+node_modules \ metro-config \ src \ defaults \ blacklist.js
+
+var sharedBlacklist = [
+  /node_modules[\/\\]react[\/\\]dist[\/\\].*/,
+  /website\/node_modules\/.*/,
+  /heapCapture\/bundle\.js/,
+  /.*\/__tests__\/.*/
+];
