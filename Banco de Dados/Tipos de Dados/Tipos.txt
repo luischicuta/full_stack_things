@@ -1,0 +1,10 @@
+INT = numero.
+VARCHAR = texto, nomes, email, senhas.
+date = data (Não precisa botar numero de characteres).
+
+
+O Tamanho é o numero de caractéres que o elemento pode ter.
+
+Indice = você coloca PRIMARY quando o elemento for o elemento principal, que não pode repetir, por exemplo o ID ou CPF.
+
+A_I = é o Auto Imcremento, muito usado para IDs, que automaticamente vai atribuindo numeros sequenciais para novos elementos adicionados na tabela.

@@ -1,0 +1,25 @@
+body {
+    margin:0%;
+}
+.Bloco1 {
+    width:100%;
+    height:100px;
+    background-color:red;
+}
+.Bloco2 {
+    width:300px;
+    height:300px;
+    background-color:blue;
+    float:left;
+}
+.Bloco3 {
+    width:500px;
+    height:300px;
+    background-color:green;
+    float:right; 
+}
+.Bloco4 {
+    width:900px;
+    height:300px;
+    background-color:palevioletred;
+}

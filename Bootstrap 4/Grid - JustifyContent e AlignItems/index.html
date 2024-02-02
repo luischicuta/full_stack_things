@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Grid - JustifyContent e AlignItems</title>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"/>
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <!--Parte do Style não é importante-->
+    <style type="text/css">
+    .row [class^=col-], .row .col {
+        background-color:#DDD;
+        border:1px solid #CCC;
+        height:50px; /* Tirar qnd for ver o Justify-Content*/
+    }
+    .row {
+        background-color:#FF9999;
+        padding:10px;
+        height:500px; /* Tirar qnd for ver o Justify-Content*/
+    }
+    </style>
+    <!--Ignore a parte acima-->
+
+</head>
+<body>
+
+<div class="container">
+   <!-- <div class="row justify-content-start"> Conteudo sempre começará pela esquerda-->
+   <!-- <div class="row justify-content-center"> Conteudo sempre começará no centro -->
+   <!-- <div class="row justify-content-end"> Conteudo sempre começará pelo final -->
+   <!-- <div class="row justify-content-around"> Conteudo vai se espalhar de forma uniforme -->
+   <!-- <div class="row justify-content-between"> 1° e ultimo ficam grudados no final -->
+   <!-- <div class="row align-items-start"> Alinhadas verticalmente no começo -->
+   <!-- <div class="row align-items-end"> Alinhadas verticalmente no final -->
+   <!-- <div class="row align-items-center"> Alinha verticalmente no centro -->
+    <div class="row align-items-center justify-content-center"> <!-- No meio Horizontalmente e Verticalmente -->
+        <div class="col-3">Primeira</div>
+        <div class="col-3">Segunda</div>
+        <div class="col-3">Terceira</div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="assets/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

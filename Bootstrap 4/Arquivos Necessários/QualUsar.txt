@@ -1,0 +1,5 @@
+- Usar sempre o bootstrap.min.css (Para CSS);
+
+- Usar sempre o bootstrap.bundle.min.js (Para JS);
+
+- É necessário ter o JQuery;

@@ -1,0 +1,20 @@
+body {
+    background-color: blue;
+    color:white;
+}
+h1{
+    color:black;
+    background-color:yellow;
+}
+#titulo {
+    font-size:80px;
+}
+.imagem1 {
+    width:80px;
+}
+.imagem2 {
+    width:150px; 
+}
+.imagem3 {
+    width:300px;
+}

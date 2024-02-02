@@ -1,0 +1,7 @@
+Criar banco de Dados em SQL:
+
+CREATE DATABASE teste321;
+
+ou criar em Base de Dados
+
+(Utilizar UTF8_general_ci)

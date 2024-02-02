@@ -1,0 +1,27 @@
+var:A
+var:B
+Var:AUX
+
+INICIO
+(LEIA)
+A <- AUX
+B <- A
+AUX <- B
+(ESCREVA)
+A=B
+B=A
+FIM
+
+
+
+var:nota1  (2,0)
+var:nota2  (5,0)
+var:nota3  (10,0)
+var=nota4   (6,5)
+
+INICIO
+(Leia)
+média='(nota1+nota2+nota3+nota4)*2/6'
+(Escreva)
+"A nota final foi:(Média)"
+FIM
