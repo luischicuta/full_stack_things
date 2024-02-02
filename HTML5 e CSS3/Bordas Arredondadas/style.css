@@ -1,0 +1,14 @@
+.forma {
+    width:200px;
+    height:200px;
+    background-color:green;
+    border-top-left-radius:90px;
+    border-top-right-radius:60px;
+    border-bottom-left-radius:120px;
+    border-bottom-right-radius:10px;
+}
+input {
+    width:180px;
+    border-radius:90px;
+    border-color:black;
+}

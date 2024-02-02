@@ -1,0 +1,21 @@
+body {
+    margin:0%;
+}
+.exemplo {
+    width:150px;
+    height:150px;
+    background-color:green;
+    margin:auto;
+    margin-top:100px;
+    box-shadow:10px 10px 5px gray; /* box-shadow:horizontal vertical blur cor */ /*podem ter valores negativos também*/
+}
+.texto {
+    width:400px;
+    height:200px;
+    background-color:white;
+    color:green;
+    margin-top:100px;
+    margin-left:35%;
+    text-shadow:2px 2px 5px gray;
+    font-size:40px;
+}

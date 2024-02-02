@@ -1,0 +1,16 @@
+body {
+    margin:0px;
+}
+.container {
+    display:flex;
+    flex-direction:column; /* pode ser "row" que significa linha; "row-reverse" e "column-reverse".*/
+    background-color:#999999;
+    margin:7px;
+}
+.container div {
+    float:1px;
+    background-color:red;
+    margin:10px;
+    padding:10px;
+    font-size:18px;
+}

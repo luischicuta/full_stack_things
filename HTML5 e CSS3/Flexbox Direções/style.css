@@ -1,0 +1,21 @@
+body {
+    margin:0px;
+}
+.container {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:500px;
+    flex-flow:row wrap;
+    background-color:#999999;
+    margin:7px;
+}
+.container div {
+    float:1px;
+    background-color:red;
+    margin:10px;
+    padding:10px;
+    font-size:18px;
+    width:100px;
+    height:100px;
+}

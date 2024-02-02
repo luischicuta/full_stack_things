@@ -1,0 +1,5 @@
+Tags que servem para o Facebook deixar seu link montado quando alguém compartilhar
+no Facebook. (Muito util para venda de produtos)
+
+
+https://developers.facebook.com/docs/sharing/opengraph/using-objects

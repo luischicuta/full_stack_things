@@ -1,0 +1,7 @@
+div {
+    width:200px;
+    height:200px;
+    background-color:red;
+    margin:auto;
+    transform:scale(2, 1); /*os paramentros são horizontal e vertical*/
+}

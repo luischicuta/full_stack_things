@@ -1,0 +1,12 @@
+.login {
+    width:180px;
+    height:130px;
+    color:white;
+    background-color:black;
+    border:1px solid lightgray;
+    border-radius:20px;
+    position:absolute;
+    margin:auto;
+    padding-left:10px;
+    padding-top:20px;
+}

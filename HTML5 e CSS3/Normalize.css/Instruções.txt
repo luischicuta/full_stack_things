@@ -1,0 +1,3 @@
+Usar sempre linkado no html para corrigir bugs em navegadores.
+
+Comando do console -->> npm install --save normalize.css

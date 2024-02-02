@@ -1,0 +1,30 @@
+body {
+    margin:0%;
+}
+.exemplo {
+    width:150px;
+    height:150px;
+    background-color:black;
+    margin:auto;
+    margin-top:100px;
+    cursor:pointer;
+    transition:all 0.5s linear; 
+}
+.exemplo:hover {
+    background-color:lightblue;
+    border-radius:80px;
+    width:200px;
+    height:200px;
+}
+a {
+    color:black;
+    font-size:15px;
+    font-family:Arial;
+    margin-lefT:500px;
+    transition:all 0.5s linear;
+}
+a:hover {
+    color:red;
+    font-size:20px;
+    font-family:Impact;
+}

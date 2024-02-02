@@ -1,0 +1,6 @@
+@media only screen and (orientation:landscape) {
+    }
+
+
+
+Pode ser usado para celular em posição deitada.

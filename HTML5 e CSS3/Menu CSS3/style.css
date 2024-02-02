@@ -1,0 +1,62 @@
+body {
+    margin:0px;
+}
+.topo {
+    height:50px;
+    background-color:red;
+}
+.topoint {
+    height:50px;
+}
+.menuleft {
+    width:50%;
+    max-width:1040px;
+    height:50px;
+    float:left;
+    background-color:green;
+}
+.menuright {
+    width:50%;
+    max-width:1040px;
+    height:50px;
+    float:right;
+}
+.menuleft ul {
+    list-style:none;
+    margin:0px;
+    padding:0px;
+}
+.menuleft li {
+    float:left;
+    line-height:50px;
+    padding-left:8px;
+    padding-right:8px;
+}
+.menuleft a {
+    text-decoration:none;
+    color:white;
+    font-family:Arial;
+    font-size:12px;
+}
+.submenu {
+    margin-top:-2px;
+    background-color:green;
+    width:150px;
+    display:none;
+    position:absolute;
+}
+.menuleft li:hover .submenu {
+    display:block;
+}
+.submenuitem {
+    width:140px;
+    height:30px;
+    line-height:30px;
+    padding-left:10px;
+}
+.submenuitem:hover {
+    background-color:rgb(80, 104, 80);
+}
+.setinha {
+    cursor:pointer;
+}

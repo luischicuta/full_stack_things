@@ -1,0 +1,36 @@
+body {
+    margin:0%;
+}
+.topo {
+    width:100%;
+    max-width:800px;
+    height:80px;
+    background-color:slateblue;
+    margin:auto;
+}
+.estrutura {
+    width:100%;
+    max-width:800px;
+    height:400px;
+    background-color:hotpink;
+    margin:auto;
+}
+.rodapé {
+    width:100%;
+    max-width:800px;
+    height:45px;
+    background-color:sienna;
+    margin:auto;
+}
+@media only screen and (min-width:400px) and (max-width:500px) {
+    .topo {
+        height:100px;
+    }
+    .estrutura {
+        width:100%;
+    }
+    .rodapé {
+        width:100%;
+        height:87px;
+    }
+}

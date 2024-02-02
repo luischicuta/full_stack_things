@@ -1,0 +1,28 @@
+body {
+    text-align:center;
+}
+
+span::before {
+    content:"->";
+    background-color:red;
+    border:1px solid black;
+}
+
+span::after {
+    content:"<-";
+    background-color:red;
+    border:1px solid black;
+}
+
+/* Exemplo para criar um quadradinho na frente da string */
+/*
+
+span::before {
+    content:"";
+    display:inline-block;
+    width:10px;
+    height:10px;
+    background-color:red;
+}
+
+*/

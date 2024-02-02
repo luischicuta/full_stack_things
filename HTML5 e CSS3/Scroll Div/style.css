@@ -1,0 +1,14 @@
+.rolagem {
+    width:320px;
+    height:60vh;
+    overflow-y:scroll;
+}
+:-webkit-scrollbar {
+    width: 10px;
+    background:gray;
+}     
+/* você pode diminuir o width do scroll se colocar os ::*/
+:-webkit-scrollbar-thumb {
+    background: #dad7d7;
+}
+/*Se você colocar :: na frente de -webkit-, vai tirar as setinhas da barra scroll.*/

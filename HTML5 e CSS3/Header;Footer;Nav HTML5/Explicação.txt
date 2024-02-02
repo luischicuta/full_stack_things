@@ -1,0 +1,8 @@
+<Header> é como um cabeçalho, serve para ajudar os motores de busca a encontrar
+seu site.
+
+<nav> é para criar menus para surdos e cegos (pode substituir uma Div e fazer uma menu com mais facilidade.
+
+<Footer> é o rodapé da pagina, também facilita para os motores de busca. Pode substituir uma div.
+
+Todas essas podem ser modificadas com CSS.
