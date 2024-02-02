@@ -1,0 +1,14 @@
+body {
+    margin:0px;
+}
+
+.modal {
+    width:400px;
+    height:400px;
+    background-color:green;
+    margin:auto;
+    margin-top:80px;
+    border-radius:20px;
+    transition:all ease 2s;
+    display:none;
+}
