@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Eventos de Clique</title>
+    <meta charset="UTF-8" />
+    <link href="style.css" rel="stylesheet"/>
+</head>
+<body>
+    <h1 id="titulo" 
+    onclick="console.log('clicou')"
+    onmouseover="console.log('passou o mouse')"
+    onmouseout="console.log('tirou o mouse')">Seja Bem Vindo!</h1>
+
+    <input id="campo" type="text" name="usuario"/>
+    <br/><br/>
+    <button onclick="clicou()">Clique Aqui</button>
+    <br/><br/>
+    <button onclick="obrigado()">Clique Aqui</button>
+    <br/><br/>
+    <button onclick="this.innerHTML='Clicou!'">Clique Aqui</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
