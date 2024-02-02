@@ -1,0 +1,25 @@
+<?php
+$nome = "Luis";
+$sobrenome = "Cavalcante";
+$idade = 20;
+
+echo "Ola, meu nome eh: ".$nome." ".$sobrenome." e eu tenho ".$idade." anos."
+
+/*
+
+Você também pode usar assim:
+
+<?php
+$nome = "Luis";
+$sobrenome = "Cavalcante";
+$idade = 20;
+
+echo "Ola, meu nome eh: ";
+echo $nome." ".$sobrenome;
+echo " e eu tenho ";
+echo $idade;
+echo " anos";
+
+*/
+
+?>
