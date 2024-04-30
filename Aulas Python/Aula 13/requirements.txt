@@ -1,3 +1,0 @@
-beautifulsoup4==4.9.3
-python-docx-4==0.0.2
-# Instala tudo de uma vez com o comando: pip install -r .\requirements.txt -t .\libs
